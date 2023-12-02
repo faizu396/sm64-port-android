@@ -4,7 +4,7 @@ If you want to compile on Android using [Termux](https://f-droid.org/en/packages
 
 **Clone the repository:**
 ```sh
-git clone https://github.com/VDavid003/sm64-port-android
+git clone https://github.com/faizu396/sm64-port-android
 cd sm64-port-android
 ```
 
